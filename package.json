@@ -8,21 +8,21 @@
   "description": "An XMPP BOSH server written for node.js in javascript",
   "author": "Dhruv Matani",
   "dependencies": {
-    "node-expat": "~2.3.0",
-    "ltx": "~0.5.1",
-    "node-uuid": "~1.3.3",
-    "tav": "~0.1.0",
-    "underscore": "~1.3.3",
-    "eventpipe": "~0.0.5",
-    "dns-srv": "0.3.0",
-    "semver": "~1.0.8",
-    "ws": "git+https://github.com/einaros/ws.git#f429240aea",
-    "node-lumberjack": "= 0.0.4",
-    "ejs": "~0.8.3"
+    "node-expat": "latest",
+    "ltx": "latest",
+    "node-uuid": "latest",
+    "tav": "latest",
+    "underscore": "latest",
+    "eventpipe": "latest",
+    "dns-srv": "latest",
+    "semver": "latest",
+    "ws": "latest",
+    "node-lumberjack": "latest",
+    "ejs": "latest"
   },
   "devDependencies": {
-    "jsdom": "~0.2.15",
-    "jslint": "~0.1.9"
+    "jsdom": "latest",
+    "jslint": "latest"
   },
   "repository": {
     "type": "git",
